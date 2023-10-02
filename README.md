@@ -8,7 +8,7 @@ Random Mesage Generate automatically
 - The function is named phrase  it's used to generate the messages returns a value without displaying it, console.log() is used to display the return value
 
 ```javascript
-console.log(MessageGenerator())
+console.log(phrase(etudiant, verbs, complement));
 ```
 Run the program to view the random message in your js support editor
 ```bash
